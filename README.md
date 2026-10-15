@@ -18,3 +18,4 @@ Follow the menu to add members, record weekly contributions, close a week, and v
 Run `mvn test`. The automated suite covers partial payments, blocked week closure, successful payout, payout order, duplicate/unknown members, invalid amounts, overpayment, membership timing, and reporting.
 # susu-group-with-history
 # susu
+# susu-history
